@@ -1,0 +1,2 @@
+export const URL =
+	'https://raw.githubusercontent.com/kiang/pharmacies/master/json/points.json';
